@@ -21,5 +21,10 @@ namespace FourButtons
         {
             button1.Text = "溫穎翰";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.Text = "溫穎翰2";
+        }
     }
 }
